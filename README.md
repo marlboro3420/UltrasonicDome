@@ -3,5 +3,5 @@
 
 2017年8月9日更新
 ---
-- 增加红外模块HC-SR501的使用Mdoule[详情](http://www.jianshu.com/p/d86df57b57b8)
+- 增加红外模块HC-SR501的使用Mdoule。[使用方法](http://www.jianshu.com/p/d86df57b57b8)
 
